@@ -1,0 +1,18 @@
+.list-btn.css
+
+.list-btn {
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.list-btn li {
+	display: inline;
+	padding: 20px;
+}
+
+.list-btn i {
+	font-size: 30px;
+	color: black;
+}
+

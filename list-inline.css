@@ -1,0 +1,11 @@
+.list-inline {
+	align-items: flex-end;
+	text-align: right;
+	float: top
+	hover: white;
+}
+
+
+.list-inline i: hover {
+	color: white;
+}

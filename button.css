@@ -1,0 +1,113 @@
+.btn-black {
+	background-color: black;
+	padding: 10px 15px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	display:block;
+	margin:auto;
+	text-align: center;
+	
+
+}
+
+.btn-black:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-care {
+	background-color: black;
+	opacity: 70%;
+	padding: 10px 35px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+
+
+}
+
+.btn-care:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-shaving {
+	background-color: black;
+	opacity: 70%;
+	padding: 10px 35px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+.btn-shaving:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-comb {
+	background-color: black;
+	opacity: 70%;
+	padding: 10px 35px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+.btn-comb:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-gift {
+	background-color: black;
+	opacity: 70%;
+	padding: 10px 35px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+.btn-gift:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-question {
+	background-color: black;
+	opacity: 100%;
+	padding: 25px 25px;
+	border-radius: 45px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	float: right;
+	margin-bottom: 25px;
+	margin-right: 25px;
+	
+
+}
+
+.btn-question:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-home {
+	color: black;
+	float: left;
+	margin: 40px;
+}
+
+.btn-home:hover {
+	color: grey;
+}
